@@ -1,4 +1,4 @@
-# OpenCV basic shape detection
+# vOpenCV basic shape detection
 simple shape object detection
 
 this project simply detect simple / basic shapes with a simple parameter - area of each object detected
